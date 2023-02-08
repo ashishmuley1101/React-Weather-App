@@ -1,0 +1,57 @@
+.weatherBg {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text-on-image {
+  align-items: center;
+  color: white;
+  position: absolute;
+  right: 20%;
+  left: 20%;
+  bottom: 80%;
+}
+
+.wetherResultBox {
+  position: absolute;
+  right: 30%;
+  left: 30%;
+  bottom: 0%;
+  align-items: center;
+  color: white;
+  background-color: transparent;
+}
+
+.weathorIcon {
+  margin-top: 20%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-bottom: 30px;
+}
+
+.wetherResultBox {
+  display: block;
+  width: 590px;
+  height: 310px;
+  margin-left: 225px;
+}
+
+.weathorIcon {
+  margin-top: 90%;
+  width: 60px;
+  height: 60px;
+}
+
+.weathorTemp {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.text-al {
+  text-align: start;
+  color: white;
+}
